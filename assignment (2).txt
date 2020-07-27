@@ -1,0 +1,17 @@
+Wap prgm for calculator and accept the value from console 
+
+i/p::
+
+ 1.add
+ 2.sub
+ 3.div
+ 4.mul
+
+outut::
+ 
+choise: 1
+
+enter first element:10
+enter second element:20
+
+answer::30
